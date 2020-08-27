@@ -1,0 +1,12 @@
+{
+  "name": "itcrowd",
+  "displayName": "itcrowd",
+  "expo": {
+    "name": "itcrowd",
+    "slug": "itcrowd",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
